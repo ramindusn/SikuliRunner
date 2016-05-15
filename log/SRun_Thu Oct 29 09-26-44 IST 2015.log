@@ -1,0 +1,32 @@
+======================================================================
+[log] 2015-10-29 09:23:10.959 Run all = false
+[log] 2015-10-29 09:23:10.960 Started : test.sikuli
+[log] 2015-10-29 09:23:13.593 Success : test.sikuli
+======================================================================
+[log] 2015-10-29 09:24:05.244 Run all = false
+[log] 2015-10-29 09:24:05.244 Started : login_lakare1.sikuli
+[log] 2015-10-29 09:25:54.551 Success : login_lakare1.sikuli
+[log] 2015-10-29 09:25:54.551 Started : open_coldCUTS.sikuli
+[log] 2015-10-29 09:25:58.614 Success : open_coldCUTS.sikuli
+[log] 2015-10-29 09:25:58.614 Started : closeCUTS.sikuli
+[log] 2015-10-29 09:26:00.527 Success : closeCUTS.sikuli
+[log] 2015-10-29 09:26:00.527 Started : open_hotCUTS.sikuli
+[log] 2015-10-29 09:26:03.030 Success : open_hotCUTS.sikuli
+[log] 2015-10-29 09:26:03.031 Started : closeCUTS.sikuli
+[log] 2015-10-29 09:26:04.683 Success : closeCUTS.sikuli
+[log] 2015-10-29 09:26:04.684 Started : exit.sikuli
+[log] 2015-10-29 09:26:18.449 Success : exit.sikuli
+======================================================================
+[log] 2015-10-29 09:26:44.250 Run all = false
+[log] 2015-10-29 09:26:44.250 Started : login_lakare1.sikuli
+[log] 2015-10-29 09:27:39.739 Success : login_lakare1.sikuli
+[log] 2015-10-29 09:27:39.739 Started : open_coldCUTS.sikuli
+[log] 2015-10-29 09:27:43.077 Success : open_coldCUTS.sikuli
+[log] 2015-10-29 09:27:43.078 Started : closeCUTS.sikuli
+[log] 2015-10-29 09:27:44.732 Success : closeCUTS.sikuli
+[log] 2015-10-29 09:27:44.732 Started : open_hotCUTS.sikuli
+[log] 2015-10-29 09:27:47.224 Success : open_hotCUTS.sikuli
+[log] 2015-10-29 09:27:47.225 Started : closeCUTS.sikuli
+[log] 2015-10-29 09:27:48.857 Success : closeCUTS.sikuli
+[log] 2015-10-29 09:27:48.857 Started : exit.sikuli
+[log] 2015-10-29 09:28:02.562 Success : exit.sikuli

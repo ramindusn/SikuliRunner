@@ -1,0 +1,8 @@
+======================================================================
+[log] 2015-10-19 17:06:22.391 Run all = false
+[log] 2015-10-19 17:06:22.392 Started : loop_argsTest.sikuli
+[log] 2015-10-19 17:06:22.392 started to loop
+[log] 2015-10-19 17:06:23.043 No. of rows:2No. of columns:2
+[log] 2015-10-19 17:06:26.682 Entered:Entered:name1 sasa 
+[log] 2015-10-19 17:06:29.606 Entered:Entered:name2 asda 
+[log] 2015-10-19 17:06:29.606 Success : loop_argsTest.sikuli

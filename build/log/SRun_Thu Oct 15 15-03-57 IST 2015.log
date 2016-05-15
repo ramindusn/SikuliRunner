@@ -1,0 +1,53 @@
+[log] 2015-10-15 15:02:06.171 Run all = true
+[log] 2015-10-15 15:02:06.172 started flow : full run.flw
+[log] 2015-10-15 15:02:06.172 Started : login_lakare1.sikuli
+[log] 2015-10-15 15:03:25.732 Failed : login_lakare1.sikuli
+[log] 2015-10-15 15:03:57.713 Run all = true
+[log] 2015-10-15 15:03:57.713 started flow : full run.flw
+[log] 2015-10-15 15:03:57.713 Started : login_lakare1.sikuli
+[log] 2015-10-15 15:05:14.386 Success : login_lakare1.sikuli
+[log] 2015-10-15 15:05:14.387 Started : open_ColdCUTS.sikuli
+[log] 2015-10-15 15:05:18.414 Success : open_ColdCUTS.sikuli
+[log] 2015-10-15 15:05:18.414 Started : Open_Patient_Card_cold.sikuli
+[log] 2015-10-15 15:05:30.791 Success : Open_Patient_Card_cold.sikuli
+[log] 2015-10-15 15:05:30.791 Started : close_window.sikuli
+[log] 2015-10-15 15:05:34.884 Success : close_window.sikuli
+[log] 2015-10-15 15:05:34.884 Started : closeCUTS.sikuli
+[log] 2015-10-15 15:05:36.771 Success : closeCUTS.sikuli
+[log] 2015-10-15 15:05:36.771 Started : open_HotCUTS.sikuli
+[log] 2015-10-15 15:05:39.759 Success : open_HotCUTS.sikuli
+[log] 2015-10-15 15:05:39.759 Started : Open_Patient_Card_cold.sikuli
+[log] 2015-10-15 15:05:45.347 Success : Open_Patient_Card_cold.sikuli
+[log] 2015-10-15 15:05:45.347 Started : close_window.sikuli
+[log] 2015-10-15 15:05:49.171 Success : close_window.sikuli
+[log] 2015-10-15 15:05:49.171 Started : closeCUTS.sikuli
+[log] 2015-10-15 15:05:51.079 Success : closeCUTS.sikuli
+[log] 2015-10-15 15:05:51.079 Started : exit.sikuli
+[log] 2015-10-15 15:06:04.926 Success : exit.sikuli
+[log] 2015-10-15 15:06:04.926 started flow : full run2.flw
+[log] 2015-10-15 15:06:04.945 Started : login_lakare1.sikuli
+[log] 2015-10-15 15:06:54.255 Success : login_lakare1.sikuli
+[log] 2015-10-15 15:06:54.255 Started : open_ColdCUTS.sikuli
+[log] 2015-10-15 15:06:58.313 Success : open_ColdCUTS.sikuli
+[log] 2015-10-15 15:06:58.313 Started : Open_Patient_Card_cold.sikuli
+[log] 2015-10-15 15:07:09.294 Success : Open_Patient_Card_cold.sikuli
+[log] 2015-10-15 15:07:09.294 Started : close_window.sikuli
+[log] 2015-10-15 15:07:13.173 Success : close_window.sikuli
+[log] 2015-10-15 15:07:13.173 Started : closeCUTS.sikuli
+[log] 2015-10-15 15:07:14.807 Success : closeCUTS.sikuli
+[log] 2015-10-15 15:07:14.807 Started : open_HotCUTS.sikuli
+[log] 2015-10-15 15:07:17.824 Success : open_HotCUTS.sikuli
+[log] 2015-10-15 15:07:17.824 Started : Open_Patient_Card_cold.sikuli
+[log] 2015-10-15 15:07:23.372 Success : Open_Patient_Card_cold.sikuli
+[log] 2015-10-15 15:07:23.372 Started : close_window.sikuli
+[log] 2015-10-15 15:07:27.167 Success : close_window.sikuli
+[log] 2015-10-15 15:07:27.167 Started : closeCUTS.sikuli
+[log] 2015-10-15 15:07:29.035 Success : closeCUTS.sikuli
+[log] 2015-10-15 15:07:29.035 Started : exit.sikuli
+[log] 2015-10-15 15:07:42.636 Success : exit.sikuli
+[log] 2015-10-15 15:07:42.636 started flow : test.flw
+[log] 2015-10-15 15:07:42.640 Started : test.sikuli
+[log] 2015-10-15 15:07:45.109 Success : test.sikuli
+[log] 2015-10-15 15:07:45.109 started flow : test0.flw
+[log] 2015-10-15 15:07:45.111 Started : test.sikuli
+[log] 2015-10-15 15:07:48.177 Failed : test.sikuli

@@ -1,0 +1,5 @@
+click("1443679001702.png")
+click("1443679284780.png")
+type("1443679332070.png", "Patient card")
+wait("1443679440904.png",5)
+click("1443679440904.png")

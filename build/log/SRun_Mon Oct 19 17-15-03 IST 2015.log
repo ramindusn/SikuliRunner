@@ -1,0 +1,14 @@
+======================================================================
+[log] 2015-10-19 17:15:03.909 Run all = false
+[log] 2015-10-19 17:15:03.923 Started : loop_login.sikuli
+[log] 2015-10-19 17:15:03.924 started to loop
+[log] 2015-10-19 17:15:05.078 No. of rows:2No. of columns:2
+[log] 2015-10-19 17:15:57.195 Entered:Lakare1 cambio123 
+[log] 2015-10-19 17:16:00.761 Entered:Ssk1 cambio123 
+[log] 2015-10-19 17:16:00.761 Success : loop_login.sikuli
+[log] 2015-10-19 17:16:00.761 Started : open_coldCUTS.sikuli
+[log] 2015-10-19 17:16:04.890 Success : open_coldCUTS.sikuli
+[log] 2015-10-19 17:16:04.890 Started : closeCUTS.sikuli
+[log] 2015-10-19 17:16:06.829 Success : closeCUTS.sikuli
+[log] 2015-10-19 17:16:06.829 Started : exit.sikuli
+[log] 2015-10-19 17:16:20.763 Success : exit.sikuli

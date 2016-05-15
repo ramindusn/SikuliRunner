@@ -1,0 +1,1 @@
+dragDrop(Pattern("1444795020991.png").targetOffset(-4,-43), Pattern("1444795031221.png").targetOffset(39,2))

@@ -1,0 +1,8 @@
+======================================================================
+[log] 2015-10-20 16:53:56.166 Run all = false
+[log] 2015-10-20 16:53:56.167 Started : openText.sikuli
+[log] 2015-10-20 16:53:59.119 Success : openText.sikuli
+[log] 2015-10-20 16:53:59.119 Started : loop_write.sikuli
+[log] 2015-10-20 16:53:59.119 started to loop
+[log] 2015-10-20 16:53:59.120 loop failed
+[log] 2015-10-20 16:53:59.121 Failed : loop_write.sikuli

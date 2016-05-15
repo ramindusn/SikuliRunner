@@ -1,0 +1,14 @@
+======================================================================
+[log] 2015-10-21 15:07:18.371 Run all = false
+[log] 2015-10-21 15:07:18.371 Started : test.sikuli
+[log] 2015-10-21 15:07:21.102 Success : test.sikuli
+======================================================================
+[log] 2015-10-21 15:07:27.951 Run all = false
+[log] 2015-10-21 15:07:27.951 Started : openText.sikuli
+[log] 2015-10-21 15:07:31.260 Success : openText.sikuli
+[log] 2015-10-21 15:07:31.260 Started : loop_write.sikuli
+[log] 2015-10-21 15:07:31.260 started to loop
+[log] 2015-10-21 15:07:31.837 No. of rows:2No. of columns:2
+[log] 2015-10-21 15:07:31.837 Entered:Lakare1 cambio123 
+[log] 2015-10-21 15:07:31.837 Entered:Ssk1 cambio123 
+[log] 2015-10-21 15:07:31.837 Success : loop_write.sikuli

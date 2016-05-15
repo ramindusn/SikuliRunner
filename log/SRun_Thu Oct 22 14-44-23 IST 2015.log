@@ -1,0 +1,26 @@
+======================================================================
+[log] 2015-10-22 14:44:08.576 Run all = false
+[log] 2015-10-22 14:44:08.577 Started : openText.sikuli
+[log] 2015-10-22 14:44:11.615 Success : openText.sikuli
+[log] 2015-10-22 14:44:11.615 Started : loop_write.sikuli
+[log] 2015-10-22 14:44:11.615 started to loop
+[log] 2015-10-22 14:44:12.239 No. of rows:5No. of columns:2
+[log] 2015-10-22 14:44:13.065 Entered:Lakare1 cambio123 
+[log] 2015-10-22 14:44:13.730 Entered:Ssk1 cambio123 
+[log] 2015-10-22 14:44:14.395 Entered:jdjfgt Lakare1 
+[log] 2015-10-22 14:44:15.182 Entered:cambio123 Lakare1 
+[log] 2015-10-22 14:44:15.968 Entered:Lakare1 cambio123 
+[log] 2015-10-22 14:44:15.968 Success : loop_write.sikuli
+======================================================================
+[log] 2015-10-22 14:44:23.081 Run all = false
+[log] 2015-10-22 14:44:23.081 Started : openText.sikuli
+[log] 2015-10-22 14:44:25.560 Success : openText.sikuli
+[log] 2015-10-22 14:44:25.560 Started : loop_write.sikuli
+[log] 2015-10-22 14:44:25.560 started to loop
+[log] 2015-10-22 14:44:25.603 No. of rows:5No. of columns:2
+[log] 2015-10-22 14:44:26.447 Entered:row1 col1 row1 col2 
+[log] 2015-10-22 14:44:27.292 Entered:row2 col1 row2 col2 
+[log] 2015-10-22 14:44:28.138 Entered:row3 col1 row3 col2 
+[log] 2015-10-22 14:44:28.984 Entered:row4 col1 row4 col2 
+[log] 2015-10-22 14:44:29.829 Entered:row5 col1 row5 col2 
+[log] 2015-10-22 14:44:29.829 Success : loop_write.sikuli

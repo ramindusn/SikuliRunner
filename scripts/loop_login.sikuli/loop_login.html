@@ -1,0 +1,131 @@
+
+<html>
+   <head>
+      <style type="text/css">
+         .sikuli-code {
+            font-size: 20px;
+            font-family: "Osaka-mono", Monospace;
+            line-height: 1.5em;
+            display:table-cell;
+            white-space: pre-wrap;       /* css-3 */
+            white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+            width: 99%;   /* remove horizontal scroll-bar when viewing in IE7 */
+         }
+         .sikuli-code img {
+            vertical-align: middle;
+            margin: 2px;
+            border: 1px solid #ccc;
+            padding: 2px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-box-shadow: 1px 1px 1px gray;
+            -webkit-box-shadow: 1px 1px 2px gray;
+         }
+         .kw {
+            color: blue;
+         }
+         .skw {
+            color: rgb(63, 127, 127);
+         }
+
+         .str {
+            color: rgb(128, 0, 0);
+         }
+
+         .dig {
+            color: rgb(128, 64, 0);
+         }
+
+         .cmt {
+            color: rgb(200, 0, 200);
+         }
+
+         h2 {
+            display: inline;
+            font-weight: normal;
+         }
+
+         .info {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+            display: none;
+         }
+
+         a {
+            color: #9D2900;
+         }
+
+         body {
+            font-family: "Trebuchet MS", Arial, Sans-Serif;
+         }
+
+      </style>
+   </head>
+<body>
+<div class="info">
+<h2>loop_login.sikuli\a.sikuli</h2> <a href="loop_login.sikuli\a.zip">(Download this script)</a>
+</div>
+<pre class="sikuli-code">
+<span class="kw">import</span> sys.argv
+userName = sys.argv[<span class="dig">1</span>]
+password = sys.argv[<span class="dig">2</span>]
+<span class="skw">doubleClick</span>(<img src="1444617538090.png" />)
+
+<span class="kw">if</span>(exists(<img src="1443671929129.png" />)):
+    <span class="skw">click</span>(<img src="1443671948856.png" />)
+
+<span class="skw">wait</span>(<img src="1443672028957.png" />,<span class="dig">60</span>)
+
+<span class="skw">type</span>(Pattern(<img src="1443672064665.png" />).targetOffset(-<span class="dig">17</span>,-<span class="dig">3</span>), userName)
+
+<span class="skw">type</span>(Pattern(<img src="1443672125898.png" />).targetOffset(-<span class="dig">28</span>,<span class="dig">1</span>), password)
+
+<span class="skw">click</span>(<img src="1443677013743.png" />)
+
+<span class="skw">wait</span>(<img src="1443785979008.png" />,<span class="dig">60</span>)
+
+
+<span class="kw">if</span>(exists(<img src="1443677111107.png" />)
+        ):
+    <span class="skw">click</span>(<img src="1443677128009.png" />)
+
+<span class="kw">if</span>(exists(<img src="1443785613226.png" />)
+        ):
+    <span class="skw">click</span>(<img src="1443785627128.png" />)
+
+
+<span class="skw">wait</span>(<img src="1443677062075.png" />,<span class="dig">60</span>)
+
+<span class="kw">if</span>(exists(<img src="1443677111107.png" />)
+        ):
+    <span class="skw">click</span>(<img src="1443677128009.png" />)
+
+
+<span class="skw">wait</span>(<img src="1444275004097.png" />, <span class="dig">20</span>)
+<span class="skw">type</span>(Pattern(<img src="1444886553550.png" />).targetOffset(<span class="dig">151</span>,<span class="dig">1</span>), <span class="str">'7902199285'</span>)
+<span class="skw">click</span>(<img src="1444886604707.png" />)
+
+<span class="kw">if</span>(exists(<img src="1444621739154.png" />)):
+
+    <span class="skw">click</span>(Pattern(<img src="1444621739154.png" />).targetOffset(<span class="dig">18</span>,-<span class="dig">8</span>))
+
+<span class="kw">else</span>:
+    <span class="skw">click</span>(Pattern(<img src="1444621887281.png" />).targetOffset(<span class="dig">17</span>,<span class="dig">0</span>))
+
+<span class="skw">wait</span>(<img src="1444621918741.png" />,<span class="dig">20</span>)
+
+<span class="skw">click</span>(<img src="1444621937126.png" />)
+
+<span class="skw">wait</span>(<span class="dig">2</span>)
+
+<span class="kw">if</span> exists(<img src="1444794362588.png" />):
+    <span class="skw">click</span>(<img src="1444794386906.png" />)
+
+<span class="skw">wait</span>(<span class="dig">5</span>)
+</pre>
+</body>
+</html>

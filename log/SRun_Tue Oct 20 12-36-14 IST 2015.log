@@ -1,0 +1,38 @@
+======================================================================
+[log] 2015-10-20 12:34:19.588 Run all = false
+[log] 2015-10-20 12:34:19.589 Started : openText.sikuli
+[log] 2015-10-20 12:34:24.447 Failed : openText.sikuli
+======================================================================
+[log] 2015-10-20 12:35:05.504 Run all = false
+[log] 2015-10-20 12:35:05.504 Started : openText.sikuli
+[log] 2015-10-20 12:35:08.163 Success : openText.sikuli
+[log] 2015-10-20 12:35:08.164 Started : loop_write.sikuli
+[log] 2015-10-20 12:35:08.164 started to loop
+[log] 2015-10-20 12:35:08.791 No. of rows:2No. of columns:2
+[log] 2015-10-20 12:35:09.577 Entered:Lakare1 cambio123 
+[log] 2015-10-20 12:35:10.243 Entered:Ssk1 cambio123 
+[log] 2015-10-20 12:35:10.243 Success : loop_write.sikuli
+======================================================================
+[log] 2015-10-20 12:35:16.397 Run all = false
+[log] 2015-10-20 12:35:16.397 Started : openText.sikuli
+[log] 2015-10-20 12:35:20.854 Failed : openText.sikuli
+======================================================================
+[log] 2015-10-20 12:35:58.245 Run all = false
+[log] 2015-10-20 12:35:58.245 Started : openText.sikuli
+[log] 2015-10-20 12:36:01.040 Success : openText.sikuli
+[log] 2015-10-20 12:36:01.040 Started : loop_write.sikuli
+[log] 2015-10-20 12:36:01.040 started to loop
+[log] 2015-10-20 12:36:01.074 No. of rows:2No. of columns:2
+[log] 2015-10-20 12:36:01.860 Entered:Lakare1 cambio123 
+[log] 2015-10-20 12:36:02.527 Entered:Ssk1 cambio123 
+[log] 2015-10-20 12:36:02.527 Success : loop_write.sikuli
+======================================================================
+[log] 2015-10-20 12:36:14.837 Run all = false
+[log] 2015-10-20 12:36:14.837 Started : openText.sikuli
+[log] 2015-10-20 12:36:17.587 Success : openText.sikuli
+[log] 2015-10-20 12:36:17.587 Started : loop_write.sikuli
+[log] 2015-10-20 12:36:17.587 started to loop
+[log] 2015-10-20 12:36:17.622 No. of rows:2No. of columns:2
+[log] 2015-10-20 12:36:18.408 Entered:Lakare1 cambio123 
+[log] 2015-10-20 12:36:19.074 Entered:Ssk1 cambio123 
+[log] 2015-10-20 12:36:19.074 Success : loop_write.sikuli

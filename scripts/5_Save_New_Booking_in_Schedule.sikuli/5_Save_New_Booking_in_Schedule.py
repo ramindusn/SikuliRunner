@@ -1,0 +1,28 @@
+click("1443679001702.png")
+click("1443679284780.png")
+type("1443679332070.png", "Schedule")
+wait("1443762218117.png")
+click("1443762218117.png")
+wait("1443763090964.png")
+click("1443762260353.png") 
+click("1443763153529.png")
+type("Chammi_Performing_Unit")  
+click("1443763364102.png")
+click("1443763427009.png")
+click("1443763447747.png") 
+wait(3)
+rightClick("1443763655291.png")
+click("1443763560179.png")
+
+if exists("1443774168989.png"):    
+    click("1443773979513.png")
+wait("1443764195356.png",10)
+click("1443764219372.png")
+click("1443764261753.png")
+click("1443764471151.png")
+click("1443764574555.png")
+click("1443764592593.png")
+click("1443764640540.png")
+click("1443764676620.png")
+    
+ 
