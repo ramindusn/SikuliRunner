@@ -36,9 +36,7 @@ import data.Model;
 @SuppressWarnings("rawtypes")
 public class FlowsPanel extends JPanel {
 
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 	private JPanel buttonPanel;
 	private JLabel lblStatus;

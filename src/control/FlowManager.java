@@ -11,11 +11,7 @@ import data.Model;
 import data.Status;
 import runner.ScriptRunner;
 
-/**
- * 
- * @author TWijayawardhana
- *
- */
+
 public class FlowManager {
 	private ArrayList<Model> scriptsInOrder;
 	private ArrayList<Model> flows;

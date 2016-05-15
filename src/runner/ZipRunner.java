@@ -13,11 +13,7 @@ import javax.swing.JOptionPane;
 import control.Handler;
 import control.PropertyFileManager;
 
-/**
- * 
- * @author TWijayawardhana
- *
- */
+
 public class ZipRunner implements Runnable {
 	private List<File> fileList;
 	private File sourceFolder;

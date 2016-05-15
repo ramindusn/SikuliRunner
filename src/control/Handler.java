@@ -9,11 +9,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 import gui.MainFrame;
 import util.CambioRunner;
 
-/**
- * 
- * @author TWijayawardhana
- *
- */
+
 public class Handler {
 	private static Handler handler;
 	private FlowManager flowManager;

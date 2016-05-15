@@ -16,11 +16,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 
-/**
- * 
- * @author TWijayawardhana
- *
- */
+
 public class FileManager {
 	private static FileManager fileManager;
 	private File folder;

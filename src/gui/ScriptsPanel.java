@@ -34,19 +34,20 @@ import data.Model;
 @SuppressWarnings({ "rawtypes", "unchecked" })
 public class ScriptsPanel extends JPanel {
 
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 
 	private JComboBox comboScripts;
-	private DefaultComboBoxModel comboModel;
+    private DefaultComboBoxModel comboModel;
 	private JLabel lblFlow;
 	private JButton buttonAdd, buttonUp, buttonDown, buttonClear, buttonSave, buttonNew, buttonSaveas;
 	private JPanel buttonPanel, scriptListPanel;
 	private JScrollPane scriptsListScrollPane;
 	private JList scriptsList;
 	private DefaultListModel scriptsListModel;
+    private JScrollPane scriptsLoadScrollPane;
+    private JList scriptLoad;
+    private DefaultListModel scriptsLoadModel;
 	private MainFrame mainFrame;
 	private FlowManager flowManager;
 
@@ -185,6 +186,13 @@ public class ScriptsPanel extends JPanel {
 		scriptsList.setCellRenderer(new scriptListCellRenderer());
 		scriptsListScrollPane = new JScrollPane(scriptsList);
 		scriptsListScrollPane.setBorder(BorderFactory.createTitledBorder("Scripts List"));
+
+      /*  scriptsLoadModel = new DefaultListModel();
+        scriptLoad = new JList(scriptsLoadModel);
+        scriptLoad.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+        scriptLoad.setCellRenderer(new scriptListCellRenderer());
+        scriptsLoadScrollPane = new JScrollPane(scriptLoad);
+        scriptsLoadScrollPane.setBorder(BorderFactory.createTitledBorder("Scripts Load"));*/
 	}
 
 	private void resizebuttons() {

@@ -20,11 +20,8 @@ import javax.swing.UnsupportedLookAndFeelException;
 import control.FileManager;
 import control.Handler;
 import control.LogManager;
-/**
- * 
- * @author TWijayawardhana
- *
- */
+
+
 public class MainFrame extends JFrame {
  
     private static final long serialVersionUID = 1L;

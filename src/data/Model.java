@@ -1,10 +1,6 @@
 package data;
 
-/**
- * 
- * @author TWijayawardhana
- *
- */
+
 public abstract class Model {
 	protected String name;
 	protected Status status;

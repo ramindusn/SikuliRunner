@@ -7,11 +7,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * 
- * @author TWijayawardhana
- *
- */
+
 public class LogManager {
 	private static LogManager logManager;
 	private ArrayList<String> log;

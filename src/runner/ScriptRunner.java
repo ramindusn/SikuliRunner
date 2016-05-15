@@ -14,10 +14,6 @@ import data.Status;
 import gui.MainFrame;
 import util.CambioRunner;
 
-/**
- * 
- * @author TWijayawardhana
- */
 
 public class ScriptRunner implements Runnable {
 
